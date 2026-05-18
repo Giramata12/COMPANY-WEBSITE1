@@ -1,0 +1,79 @@
+.h1{
+            background-color: white;
+            height:100px;
+            width: 600px;
+            color: black;
+            text-align: center;
+            align-content: center;
+            stroke: black;
+            border-style: groove;
+
+        }
+        .h2{
+          background-color:white;
+
+            height: 30px;
+            width: 600px;
+            color:black;
+            text-align: center;
+            align-content: center;
+   margin-top: 8px;
+   border-style: groove;
+        }
+        .h3{
+          background-color: white;
+
+
+            height: 400px;
+            width: 120px;
+            color: black;
+
+            text-align: center;
+            align-content: center;
+     margin-left: 3px;
+     margin-top: 10px;
+     border-style: groove;
+        }
+#h4{
+ background-color:white;
+
+
+            height:400px;
+            width: 300px;
+            color: black;
+
+
+            text-align: center;
+            align-content: center;
+
+    margin-left: 150px;
+    margin-top: -399px;
+    border-style: groove;
+        }   
+#h5{
+ background-color: white;
+
+
+            height:400px;
+            width: 120px;
+            color: black;
+
+
+            text-align: center;
+            align-content: center;
+    margin-left: 480px;   
+    margin-top: -399px; 
+    border-style: groove;
+}
+.h6{
+  background-color: white;
+
+            height: 50px;
+            width: 600px;
+            color:black;
+            text-align: center;
+            align-content: center;
+   margin-top: 8px;
+   border-style: groove;       
+
+}
